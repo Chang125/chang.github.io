@@ -1,0 +1,36 @@
+.block{
+      width: 200px;
+      height: 100px;
+      border: 0px solid #000;
+      overflow: auto;
+    }
+
+.content{
+    width:1000px;margin-left:auto; margin-right:auto;
+}
+
+.box{
+    width:280px;padding:10px;margin:10px;background-color: white;
+    display: inline-block;vertical-align: top;
+    text-align: center;height: 150px;line-height: 30px
+}
+
+.title{font-weight: bold
+}
+.row gx-5{
+  display: flex;
+}
+.sec{
+  display: flex;
+  justify-content: space-between;
+}
+section{
+  width: 50%
+}
+aside{
+  width: 50%
+}
+.vac{
+  display: flex
+
+}
